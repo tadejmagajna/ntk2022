@@ -1,1 +1,1 @@
-# ntk2022
+# NTK 2022 - Tadej Magajna Presentation notebook repository
